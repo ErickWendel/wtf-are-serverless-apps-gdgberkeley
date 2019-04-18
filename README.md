@@ -1,7 +1,7 @@
 # WTF are serverless apps - GDGBerkely
 
 Examples that I've used on this presentation
-Slides: https://www.icloud.com/keynote/0rJr5qslPJP2OHKaBBcRwbaRA#WTF_are_Serverless_apps_?_GDG_Berckeley
+Slides: http://bit.ly/wtf-are-sls-apps-gdgberkeley
 
 ```shell
 
